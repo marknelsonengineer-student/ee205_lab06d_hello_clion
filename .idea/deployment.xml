@@ -2,10 +2,10 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="Wiliki (185b3e64-273f-47b0-b123-4bdb7de4519a)">
+      <paths name="Wiliki (eb003ff6-fcb1-41e3-9033-7a990c148428)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.Vb2U1fXZVi" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.oGlzIM8O0f" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
